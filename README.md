@@ -1,7 +1,7 @@
 # SwapCV
 SwapCV
 
-A script to swap faces from a specified image in a live video using OpenCV adn dlib.
+A script to swap faces from a specified image in a live video using OpenCV and dlib.
 
 To run the script you'll need to install dlib (http://dlib.net) including its
 Python bindings, Haar Cascades and OpenCV. You'll also need to obtain the trained model from
