@@ -1,7 +1,7 @@
 # Content: Computer Vision
 ## Project: SwapCV
 
-In this project I modified the original code to allow live face from a video stream.
+This project allows you to swap faces in a live video stream.
 
 To run the script you'll need to install dlib (http://dlib.net) including its
 Python bindings, Haar Cascades and OpenCV. You'll also need to obtain the trained model from
