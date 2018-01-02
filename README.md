@@ -19,6 +19,8 @@ Get the frontal face Haar Cascade from : https://github.com/opencv/opencv/tree/m
 
 Get dlib from (http://dlib.net).
 
-### Instructions : To run this code, in the file FaceSwapCV.ipynb, on line 8 in the code block add the path of your predictor in 'PREDICTOR_PATH' variable and on line 35 add the path of your HAAR cascade classifier in the variable 'cascade_path'.
+### Instructions -
+
+To run this code, in the file FaceSwapCV.ipynb, on line 8 in the code block add the path of your predictor in 'PREDICTOR_PATH' variable and on line 35 add the path of your HAAR cascade classifier in the variable 'cascade_path'.
 
 ##### This project wasn't implemented from scratch. The code for swapping faces was sourced from https://matthewearl.github.io/2015/07/28/switching-eds-with-python/ and the original code was modified to allow us to implement face swap filters in real time.
